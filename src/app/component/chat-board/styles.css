@@ -1,0 +1,8 @@
+.chatBoardContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #edeff2;
+  flex: 1;
+  height: 100%;
+  width: 100%;
+}

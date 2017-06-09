@@ -1,0 +1,150 @@
+[
+  {
+    "id": 0,
+    "title": "Dave Dave",
+    "imgSrc": "dave",
+    "pinned": true,
+    "lastUpdated": 1489344474682,
+    "messages": [
+      {
+        "text": "Hello, it's my storage",
+        "imgSrc": "dave",
+        "time": 1489344474682
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Claire Sharwood",
+    "imgSrc": "claire",
+    "pinned": false,
+    "lastUpdated": 1489344474682,
+    "messages": [
+      {
+        "text": "Hello",
+        "imgSrc": "claire",
+        "time": 1489344474682
+      },
+      {
+        "text": "Hello, Claire!",
+        "imgSrc": "dave",
+        "time": 1489344474682
+      },
+      {
+        "text": "How are you?",
+        "imgSrc": "claire",
+        "time": 1489344474682
+      },
+      {
+        "text": "I'm fine. And you?",
+        "imgSrc": "dave",
+        "time": 1489344474682
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kayne West",
+    "imgSrc": "kayne",
+    "pinned": false,
+    "lastUpdated": 1489344474682,
+    "messages": [
+      {
+        "text": "Hello",
+        "imgSrc": "kayne",
+        "time": 1489344474682
+      },
+      {
+        "text": "Hello, Kayne!",
+        "imgSrc": "dave",
+        "time": 1489344474682
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Kirsten Mckellar",
+    "imgSrc": "kirsten",
+    "pinned": false,
+    "lastUpdated": 1489344474682,
+    "messages": [
+      {
+        "text": "Hello",
+        "imgSrc": "kirsten",
+        "time": 1489344474682
+      },
+      {
+        "text": "Hello, Kirsten!",
+        "imgSrc": "dave",
+        "time": 1489344474682
+      },
+      {
+        "text": "How are you?",
+        "imgSrc": "kirsten",
+        "time": 1489344474682
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mace Windu",
+    "imgSrc": "mace",
+    "pinned": false,
+    "lastUpdated": 1489344474682,
+    "messages": [
+      {
+        "text": "Hello",
+        "imgSrc": "mace",
+        "time": 1489344474682
+      },
+      {
+        "text": "How are you?",
+        "imgSrc": "mace",
+        "time": 1489344474682
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Matt Thompson",
+    "imgSrc": "matt",
+    "pinned": false,
+    "lastUpdated": 1489344474682,
+    "messages": [
+      {
+        "text": "Hello",
+        "imgSrc": "matt",
+        "time": 1489344474682
+      },
+      {
+        "text": "Hello, Matt!",
+        "imgSrc": "dave",
+        "time": 1489344474682
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Shaun Gardner",
+    "imgSrc": "shaun",
+    "pinned": false,
+    "lastUpdated": 1489344474682,
+    "messages": [
+      {
+        "text": "Hello",
+        "imgSrc": "shaun",
+        "time": 1489344474682
+      },
+      {
+        "text": "Hello, Shaun!",
+        "imgSrc": "dave",
+        "time": 1489344474682
+      },
+      {
+        "text": "How are you?",
+        "imgSrc": "shaun",
+        "time": 1489344474682
+      }
+    ]
+  }
+]
